@@ -5,6 +5,9 @@ Repository containing the numerical experiments for the evaluation of the Online
 
 ## Description
 
+The file OnlineLearning_AlgorithmComparison.py focuses on Q3 of the provided evaluation and comapres the cumulative regret of various algorithms (OMD Entropique/euclidien, RM/RM+ and exponential weights).
+The file OnlineLearning_OptimisticAlgorithms.py focuses on the comparison between those algorithms and their optimistic counterparts.
+
 
 
 ## Getting Started
